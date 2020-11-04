@@ -1,2 +1,2 @@
 # Estrutura-de-Dados
- Disciplina de estrutura de dados utilizando a linguagem C
+ Disciplina de estrutura de dados utilizando a linguagem C.
